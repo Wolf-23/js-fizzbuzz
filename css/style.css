@@ -3,7 +3,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-
 #container {
     max-width: 90%;
     width: 1200px;
@@ -70,4 +69,4 @@
 
 .block {
     display: flex;
-}
+} 
